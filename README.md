@@ -3,7 +3,7 @@
 </p>
 
 
-![Few stalkers](https://visitor-badge.glitch.me/badge?page_id=vincedprime&left_text=Few Stalkers)
+![Few stalkers](https://visitor-badge.glitch.me/badge?page_id=vincedprime&left_text=fewStalkers)
 [![Github](https://img.shields.io/github/followers/vincedprime?label=Follow&style=social)](https://github.com/vincedprime)
 
 <div size='20px'> Hi! My name is Vinay :smile: 
