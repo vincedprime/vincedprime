@@ -4,7 +4,7 @@
 
 
 ![Few stalkers](https://visitor-badge.glitch.me/badge?page_id=vincedprime)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/vincedprime)
+[![Github](https://img.shields.io/github/followers/vincedprime?label=Follow&style=social)](https://github.com/vincedprime)
 
 <div size='20px'> Hi! My name is Vinay :smile: 
 </div>
