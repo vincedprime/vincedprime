@@ -3,11 +3,11 @@
 </p>
 
 
-![Few stalkers](https://visitor-badge.glitch.me/badge?page_id=vincedprime)
+![Few stalkers](https://visitor-badge.glitch.me/badge?page_id=vincedprime&left_text=Few Stalkers)
 [![Github](https://img.shields.io/github/followers/vincedprime?label=Follow&style=social)](https://github.com/vincedprime)
 
 <div size='20px'> Hi! My name is Vinay :smile: 
-</div>
+</div
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
