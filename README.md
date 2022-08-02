@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center">I'm a backend dev with some happy accidents with front end</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincedprime&label=Profile%20views&color=0e75b6&style=flat" alt="vincedprime" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincedprime" alt="vincedprime" /></a> </p>
 
@@ -21,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincedprime&show_icons=true&locale=en" alt="vincedprime" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincedprime&" alt="vincedprime" /></p>
+
+<p>Few stalkers here and there <img src="https://komarev.com/ghpvc/?username=vincedprime&label=Profile%20views&color=0e75b6&style=flat" alt="vincedprime" /></p>
