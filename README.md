@@ -11,7 +11,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working at [ixigo](https://www.ixigo.com/)
+- 🔭 I’m currently working as software engineer
   
 - 🌱 I’m currently learning node.js
     
